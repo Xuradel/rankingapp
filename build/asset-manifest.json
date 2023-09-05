@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad2f61a7.css",
+    "main.js": "/static/js/main.81625071.js",
+    "static/media/worlds2022.webp": "/static/media/worlds2022.801900624b3a792985ed.webp",
+    "static/media/LPLPROVIEWS.webp": "/static/media/LPLPROVIEWS.c000f363c706d134042a.webp",
+    "static/media/LOGO.webp": "/static/media/LOGO.14cbab0e1aa042b347c7.webp",
+    "static/media/worlds2022mobile.webp": "/static/media/worlds2022mobile.f109aa7b55ca4ab0c68c.webp",
+    "index.html": "/index.html",
+    "main.ad2f61a7.css.map": "/static/css/main.ad2f61a7.css.map",
+    "main.81625071.js.map": "/static/js/main.81625071.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad2f61a7.css",
+    "static/js/main.81625071.js"
+  ]
+}
